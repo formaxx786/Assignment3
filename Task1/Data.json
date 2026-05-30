@@ -1,0 +1,6 @@
+[
+    {"id":1, "name":"suneel", "age": 24, "role":"devops"},
+    {"id":2, "name":"ratan", "age": 23, "role":"Backend"},
+    {"id":3, "name":"Ajitesh", "age": 25, "role":"Full stack"}
+    
+]
